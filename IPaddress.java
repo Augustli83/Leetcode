@@ -1,4 +1,4 @@
-public class Solution {
+public class IPaddress {
     List<String> ipAdd = new ArrayList<>();
     List<String> list = new ArrayList<>();
 	public List<String> restoreIpAddresses(String s) {
